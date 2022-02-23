@@ -14,9 +14,7 @@ header {
 }
 
 .corfundo {
-
 background-color:rgb(85, 1, 40)
-
 }
 
 #imagem_fundo {
@@ -27,32 +25,20 @@ background-color:rgb(85, 1, 40)
 } 
 
 .titulo {
-
     color: rgb(255, 255, 255);
     padding-top: 10%;
-border-color: rgb(0, 0, 0) ;
-border-width: 10px;
-font-size: 250%;
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
-
-
+    border-color: rgb(0, 0, 0) ;
+    border-width: 10px;
+    font-size: 350%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
-
 .texto {
-
-color: aliceblue;
-
-
-
-
+    text-align: justify;
 }
+
 .corgo {
-background-color: burlywood;
-
-
-
+    background-color: burlywood;
 }
 
 
