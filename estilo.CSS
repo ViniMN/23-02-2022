@@ -1,0 +1,59 @@
+html, body {
+    background: url('img/Design\ sem\ nome\ \(2\).png') no-repeat center center fixed;     
+    background-size: cover;
+    margin: 0;
+}
+
+header {
+    background-color: rgb(76, 151, 250);
+    color: rgb(187, 36, 36);
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+}
+
+.corfundo {
+
+background-color:rgb(85, 1, 40)
+
+}
+
+#imagem_fundo {
+    background-image: url(https://ogimg.infoglobo.com.br/in/24798511-20a-1e5/FT1500A/690/nerdcast-rpg-cthulhu.jpg);
+    height: 73%;
+    text-align: center;
+    background-size: cover;
+} 
+
+.titulo {
+
+    color: rgb(255, 255, 255);
+    padding-top: 10%;
+border-color: rgb(0, 0, 0) ;
+border-width: 10px;
+font-size: 250%;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+
+
+}
+
+.texto {
+
+color: aliceblue;
+
+
+
+
+}
+.corgo {
+background-color: burlywood;
+
+
+
+}
+
+
+
