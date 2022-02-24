@@ -6,7 +6,7 @@ html, body {
 
 header {
     background-color: rgb(76, 151, 250);
-    color: rgb(187, 36, 36);
+    color: rgb(136, 25, 58);
     height: 80px;
     width: 100%;
     position: fixed;
@@ -14,7 +14,9 @@ header {
 }
 
 .corfundo {
+
 background-color:rgb(85, 1, 40)
+
 }
 
 #imagem_fundo {
@@ -25,21 +27,33 @@ background-color:rgb(85, 1, 40)
 } 
 
 .titulo {
+
     color: rgb(255, 255, 255);
     padding-top: 10%;
-    border-color: rgb(0, 0, 0) ;
-    border-width: 10px;
-    font-size: 350%;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+border-color: rgb(0, 0, 0) ;
+border-width: 10px;
+font-size: 250%;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+
 
 }
+
 .texto {
-    text-align: justify;
-}
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(250, 225, 233);
+font-size: 3ch;
+margin-left: 5em;
+margin-right: 10%;
 
+
+
+}
 .corgo {
-    background-color: burlywood;
+background-color: rgb(22, 211, 47);
+
+
+
 }
-
-
 
